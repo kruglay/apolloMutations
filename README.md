@@ -1,2 +1,0 @@
-# apolloMutations
-Created with CodeSandbox
